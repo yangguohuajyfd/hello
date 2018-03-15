@@ -12,6 +12,7 @@ public class gello {
 	
 	private String id;
 	private String name;
+	private int age;
 
 	
 }
